@@ -12,7 +12,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Author](#author)
 
 
-## Overview
+
 
 ### The challenge
 
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [CSS variables](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
+- Solution URL: [](https://page-links-theta.vercel.app/)
 
 
 ### Built with
